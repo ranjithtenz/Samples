@@ -1,0 +1,4 @@
+require 'rubygems'
+require 'spidr'
+
+Spidr.site('http://matasano.com/', :ignore_links => [/log/])
