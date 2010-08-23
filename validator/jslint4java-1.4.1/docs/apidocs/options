@@ -1,0 +1,25 @@
+-classpath
+'/Users/hdm/work/jslint4java/target/classes:/Users/hdm/work/jslint4java/jslint4java/target/classes:/Users/hdm/work/jslint4java/jslint4java-ant/target/classes:/Users/hdm/work/jslint4java/jslint4java-docs/target/classes:/Users/hdm/work/jslint4java/jslint4java-dist/target/classes:/Users/hdm/.m2/repository/rhino/js/1.7R1/js-1.7R1.jar:/Users/hdm/.m2/repository/com/beust/jcommander/1.3/jcommander-1.3.jar:/Users/hdm/.m2/repository/org/apache/ant/ant-launcher/1.8.1/ant-launcher-1.8.1.jar:/Users/hdm/.m2/repository/org/apache/ant/ant/1.8.1/ant-1.8.1.jar:/Users/hdm/.m2/repository/com/googlecode/jslint4java/jslint4java/1.4.1/jslint4java-1.4.1.jar'
+-encoding
+'UTF-8'
+-protected
+-quiet
+-sourcepath
+'/Users/hdm/work/jslint4java/jslint4java/src/main/java:/Users/hdm/work/jslint4java/jslint4java-ant/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2007-2010. All Rights Reserved.'
+-charset
+'UTF-8'
+-d
+'/Users/hdm/work/jslint4java/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'jslint4java parent 1.4.1 API'
+-link
+'http://java.sun.com/javase/6/docs/api'
+-use
+-version
+-windowtitle
+'jslint4java parent 1.4.1 API'
